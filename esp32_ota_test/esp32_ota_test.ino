@@ -9,7 +9,7 @@ const char * password = "subjectsoftumble#";
 
 
 String FirmwareVer = {
-  "2.3"
+  "2.4"
 };
 #define LED_BUILTIN 2
 #define URL_fw_Version "https://raw.githubusercontent.com/dukegold/esp32_ota_test/main/esp32_ota_test/bin_ver.txt"
